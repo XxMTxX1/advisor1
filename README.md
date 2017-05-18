@@ -1,40 +1,37 @@
-#XxMTxX 🔱
-* * *
+XxMTxX_bot
+👇🏿
+ افتـح ترمنـــأل وخلي 👇🏿 
 
+sudo apt-get update 
 
-# التنصيب
-#1
-sudo apt-get update
-
-#2
+وفتح ترمنال ثاني وخلي 👇🏿 
+************************************************
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
+************************************************************
+ورأهأَ خلي👇🏿
+**************
 
-#3
-sudo apt-get upgrade
-
-#4
-git clone https://github.com/XxMTxX/XxMTxXa.git
-
-#5
-cd XxMTxX
-
-#6
+*****************************************************
+ورهأ خلي 👇🏿 
+**************************
+cd vtbot
+**************************
+ورهأَ خلي👇🏿 
+**************************
 chmod +x launch.sh
-
-#7
+**************************
+ورهأَ خلي👇🏿 
+**************************
 ./launch.sh install
-
-#8
-./launch.sh انتضر شويه وراح يطلب رقمه خليه
-* * *
-
-### Realm configuration
-
-After you run the bot for first time, send it !id. Get your ID and stop the bot.
-
-تفتح هاذا المسار ./data/config.lua 
-  sudo_users = {
-    YourID
-  }
-Then restart the bot.
-* * *
+**************************
+ورهأَ خلي👇🏿 
+**************************
+./launch.sh 
+**************************
+يطلب رقم خلي رقم البوت ✋🏿😘
+مبروك عليك افضل بوت عل تلي 😍
+ملاحظه ::- 
+وره متخلي الايدي مالتك بل config.lua 
+تفتح ترمنال فوك وتكتب 
+redis-server 
+ودوس انتر وشغل البوت من اللانش
