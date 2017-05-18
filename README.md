@@ -1,5 +1,5 @@
 
- 
+`` 
 
 افتـح ترمنـــأل وخلي   
 
@@ -15,7 +15,7 @@ redis-server
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورهأ خلي    
 
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورأهأَ خلي  
 
@@ -27,7 +27,7 @@ cd advisor1
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورهأَ خلي 
 ➖🔹➖🔹➖🔹➖🔹➖🔹
-chmod +x adviosr1.sh
+chmod +xadviosr1.sh
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورهأَ خلي 
 
